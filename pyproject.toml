@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "check_homeassistant_sensor"
-version = "0.2.0"
+version = "0.2.1"
 description = "Nagios/Icinga plugin for Home Assistant entities (REST API)"
 readme = "README.md"
 license = {text = "GPL-3.0-or-later"}

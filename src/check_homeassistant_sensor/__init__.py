@@ -63,7 +63,7 @@ import urllib.parse
 import urllib.request
 from datetime import datetime
 
-__version__ = "0.2.0"
+__version__ = "0.2.1"
 
 STATE_OK = 0
 STATE_WARNING = 1
